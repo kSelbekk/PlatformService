@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/z1VTKG5RHBFTh5M3glHH0CMxGse4+s+NZVUoLcJ+9eBzfwuwbufonL/kSi2J9mww/fuhWaKC+zvQeuis3a9Uw==",
+  "dgSpecHash": "gZ1Rvr7e7w/QpXmVUTYq4KtJWa4tPoe4MBSgcxkWq+vkB0uc/9+4cFQ6aHuhBWSQe0Rw7K4MwP8uAkjSl0sF5w==",
   "success": true,
   "projectFilePath": "C:\\Users\\kuk\\source\\repos\\PlatformService\\PlatformService\\PlatformService.csproj",
   "expectedPackageFiles": [
@@ -35,6 +35,7 @@
     "C:\\Users\\kuk\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.8.0\\microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
     "C:\\Users\\kuk\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\kuk\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\kuk\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
     "C:\\Users\\kuk\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\kuk\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\kuk\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
